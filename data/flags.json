@@ -1,0 +1,21 @@
+[
+    {
+      "id": "flag-001",
+      "machine": "machine-1",
+      "value": "CTF{welcome_flag}",
+      "points": 10
+    },
+    {
+      "id": "flag-002",
+      "machine": "machine-2",
+      "value": "CTF{open_port_found}",
+      "points": 20
+    },
+    {
+      "id": "flag-003",
+      "machine": "machine-3",
+      "value": "CTF{service_hacked}",
+      "points": 30
+    }
+  ]
+  
